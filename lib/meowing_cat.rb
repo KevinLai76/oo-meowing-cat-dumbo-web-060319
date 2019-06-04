@@ -3,3 +3,6 @@ class Cat
   attr_accessor :meow
 end
 
+felix = Cat.new
+felix.name = "Felix"
+felix.meow
