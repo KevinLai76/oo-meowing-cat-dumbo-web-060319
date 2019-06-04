@@ -8,4 +8,4 @@ end
 
 felix = Cat.new
 felix.name = "Felix"
-# felix.meow
+felix.meow
